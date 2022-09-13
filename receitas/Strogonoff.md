@@ -3,7 +3,7 @@
 
 ### INGREDIENTES
 
-- 3 Peitos de Frango cortados em cubos;
+- 3 peitos de frango cortados em cubos;
 - 1 dente de alho picado;
 - Sal e pimenta a gosto;
 - 1 cebola picada;
@@ -16,10 +16,11 @@
 - Batata palha a gosto;
 
 
+
 ### MODO DE PREPARO
 
 _1-_ Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.  
-_2-_ Em uma frigideira grnade, derreta a manteiga e doure a cebola.  
+_2-_ Em uma frigideira grande, derreta a manteiga e doure a cebola.  
 _3-_ Junte o frango temperado até que esteja dourado.  
 _4-_ Adicione os cogumelos, o ketchup e a mostarda.  
 _5-_ Incorpore o creme de leite e retire do fogo antes de ferver.  
