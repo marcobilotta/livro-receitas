@@ -1,4 +1,4 @@
-# LIVRO DE RECEITAS  :cook
+# LIVRO DE RECEITAS  :cook:
 
 
 _Olá! Bem-vindo ao nosso livro de receitas._
